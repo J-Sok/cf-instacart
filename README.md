@@ -1,5 +1,5 @@
 # cf-instacart
-This is a demonstration of pandas to perform analytical tasks surrounding Instacart's database.
+This is a demonstration of Python (pandas, seaborn) to perform analytical tasks surrounding Instacart's database.
 
 ![Instacart logo](https://mma.prnewswire.com/media/513450/Instacart_Logo.jpg?p=twitter)
 
