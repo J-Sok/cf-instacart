@@ -29,4 +29,10 @@ The dataset comprises of information in the following parameters:
 - Jupyter - _platform to execute scripts_
 - Excel - _platform to write final report_
 
+## Executing code
+Code is written in Jupyter notebooks, located under **02 Scripts**.
+To lanch the notebook, open terminal and run the command:
+- import data: `jupyter notebook importData.ipynb`
+- generate CrossTabs: `jupyter notebook createCrossTabs.ipynb`
+
 ### More information about the [Instacart project](https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Immersion_Project_Brief.pdf).
